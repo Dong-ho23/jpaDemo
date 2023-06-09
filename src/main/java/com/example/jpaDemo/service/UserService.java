@@ -19,7 +19,7 @@ public class UserService {
     public void put() {
         User user = new User();
         user.setName("newUser");
-        user.setEmail("newUser@fastcampus.com");
+        user.setEmail("newUser@gmail.com");
 
 //        userRepository.save(user);
 
